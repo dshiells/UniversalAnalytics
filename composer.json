@@ -3,7 +3,7 @@
     "description": "Implement Google's Measurement Protocol for Universal Analytics on the Server Side",
     "keywords": ["google analytics", "measurement protocol", "universal analytics", "analytics", "google measurement protocol"],
     "require": {
-        "kriswallsmith/buzz": "dev-master"
+        "kriswallsmith/buzz": "0.16.*"
     },
     "require-dev": {
         "mockery/mockery": "0.8.*",
