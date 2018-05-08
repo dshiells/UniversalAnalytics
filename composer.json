@@ -1,5 +1,5 @@
 {
-    "name": "fideloper/universalanalytics",
+    "name": "dshiells/universalanalytics",
     "description": "Implement Google's Measurement Protocol for Universal Analytics on the Server Side",
     "keywords": ["google analytics", "measurement protocol", "universal analytics", "analytics", "google measurement protocol"],
     "require": {
